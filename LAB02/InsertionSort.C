@@ -1,4 +1,7 @@
 #include <stdio.h>
+//How to compile this program
+//gcc –o Insert InsertionSort.c
+//./Insert
 int main(){
     int N;
     printf("Enter the number of array elements\n");
